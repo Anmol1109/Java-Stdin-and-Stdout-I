@@ -1,2 +1,2 @@
 # Java-Stdin-and-Stdout-I
-Solution of HACKERRANK prtoblem of JAVA module
+Solution of HACKERRANK problem of JAVA module
